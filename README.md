@@ -44,7 +44,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-the-badge&logo=slack&logoColor=white)
 
 # 📊GitHub Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WookCoding&show_icons=true&theme=algolia )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eejunhee&show_icons=true&theme=algolia )
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eejunhee&layout=compact&theme=algolia"><br>
 </div>
 
