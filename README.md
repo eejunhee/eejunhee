@@ -4,7 +4,7 @@
 <br>
 안녕하세요! 프론트엔드 개발자 준비중인 이준희입니다!!<br>
 "Knowing is not enough. We must apply. willing is not enough. We must do" <br>
- 아는 것만으로는 충분하지 않다. 적용할 줄 알아야 한다. 의지만 가지고는 충분하지않다. 행동으로 옮겨야 한다.
+ 아는 것만으로는 충분하지 않다. 적용할 줄 알아야 한다. 의지만 가지고는 충분하지않다. 행동으로 옮겨야 한다.  <br><br>
 <img src="https://c.tenor.com/Bklo77mJokoAAAAC/tenor.gif" width="30%">
 <h2>🎈About Me🎈</h2>
 🎓Graduated : Paekche University of Arts<br>
