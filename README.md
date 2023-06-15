@@ -1,16 +1,16 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Hi_J.W&fontSize=60)<br>
-<h2>✨Hello, I'm JongWook!✨</h2>
+<h2>✨Hello, I'm Junhee Lee!✨</h2>
 
 <br>
-안녕하세요! 백엔드 개발자 준비중인 임종욱입니다!!<br>
+안녕하세요! 프론트엔드 개발자 준비중인 이준희입니다!!<br>
 "Courage is very important when it comes to anything" <br><br>
 <img src="https://c.tenor.com/Bklo77mJokoAAAAC/tenor.gif" width="30%">
 <h2>🎈About Me🎈</h2>
-🎓Graduated : DongSeoul University<br>
-📜Certificated Korea IT program in Seoul<br>
-💌Email : dnrwhddla300@naver.com<br>
+🎓Graduated : Paekche University of Arts<br>
+📜Certificated Ezen academy program in Hanam, Gyeonggi<br>
+💌Email : 1182sk@naver.com<br>
 🏆Portfolio <a href="https://maple-lupin-5b2.notion.site/JongWook-3c11d40c6bfb4436a70f20b8c816e1b0"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-the-badge&logo=notion&logoColor=white"/></a>
 
 # 💻Tech Stack
