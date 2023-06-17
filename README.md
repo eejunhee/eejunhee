@@ -10,7 +10,7 @@
 🎓Graduated : Paekche University of Arts<br>
 📜Certificated Ezen academy program in Hanam, Gyeonggi<br>
 💌Email : 1182sk@naver.com<br>
-🏆Portfolio <a href="https://maple-lupin-5b2.notion.site/JongWook-3c11d40c6bfb4436a70f20b8c816e1b0"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-the-badge&logo=notion&logoColor=white"/></a>
+<!-- 🏆Portfolio <a href="https://maple-lupin-5b2.notion.site/JongWook-3c11d40c6bfb4436a70f20b8c816e1b0"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-the-badge&logo=notion&logoColor=white"/></a> -->
 
 # 💻Tech Stack
 
